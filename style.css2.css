@@ -1,0 +1,51 @@
+html {
+   background-color:antiquewhite;
+   background-image: url(Handsome-Black-Business-Man-In-A-Suit-62494160-1.png);
+   background-size:100%;
+
+
+}
+    h1 {
+        color:aliceblue;
+        text-align: center;
+
+    }
+    h2 {
+        color:aliceblue;
+        text-align: center;
+
+    }
+    ul{
+        color:aliceblue;
+        text-align: center;
+
+    }
+p{
+    color:aliceblue;
+    text-align: center;
+}
+img {
+    width: 10%;
+}
+ul{
+    
+    margin: 5px;
+    padding: 5px;
+    overflow:hidden;
+}
+    li a{
+        float:left;
+    }
+    li a{
+        display:block;
+        color:aliceblue;
+        text-align:center;
+        padding: 14px 16px;
+        text-decoration:nome;
+    }
+    li a:hover{
+        background-color:aliceblue;
+    }
+    
+    
+    
